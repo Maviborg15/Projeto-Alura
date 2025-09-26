@@ -17,7 +17,7 @@ Foram implementados recursos de acessibilidade em *HTML*, *CSS* e *JavaScript*, 
 - Menu de acessibilidade fixo  
 - Links de pular conteúdo (*skip links*)  
 - Estrutura semântica em **HTML5** (*header, main, footer, nav*)  
-- Testes de acessibilidade com **Lighthouse** e **Wave**  
+- Testes de acessibilidade com **Lighthouse** e **Wave** 
 
 ---
 
