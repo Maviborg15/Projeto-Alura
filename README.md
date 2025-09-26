@@ -34,11 +34,11 @@ Foram implementados recursos de acessibilidade em *HTML*, *CSS* e *JavaScript*, 
 
 | Nome da Imagem      | Link                                                                 | Descrição                                      |
 |---------------------|----------------------------------------------------------------------|------------------------------------------------|
-| Cristo Redentor     | [Unsplash](https://unsplash.com/photos/5NLCaz2wJXE)                  | Foto do Cristo Redentor no Rio de Janeiro      |
-| Cataratas do Iguaçu | [Unsplash](https://unsplash.com/photos/mXlo2b3hGZo)                  | Vista das Cataratas do Iguaçu em Foz do Iguaçu |
-| Praia do Nordeste   | [Unsplash](https://unsplash.com/photos/v7daTKlZzaw)                  | Praia paradisíaca no Nordeste brasileiro       |
-| Floresta Amazônica  | [Unsplash](https://unsplash.com/photos/fh5YHc8_9Hc)                  | Imagem aérea da Floresta Amazônica             |
-| Pão de Açúcar       | [Unsplash](https://unsplash.com/photos/n5f3t6J6cYk)                  | Paisagem do Pão de Açúcar no Rio de Janeiro    |
+| Cristo Redentor     | [Unsplash](https://pin.it/4q1CT52D3)                  | Foto do Cristo Redentor no Rio de Janeiro      |
+| Cataratas do Iguaçu | [Unsplash](https://share.google/images/R8tg0dAqN0pSH1CcP)                  | Vista das Cataratas do Iguaçu em Foz do Iguaçu |
+| Praia do Nordeste   | [Unsplash](https://share.google/images/jcVSrL7XGnEVbSBj5)                  | Praia paradisíaca no Nordeste brasileiro       |
+| Floresta Amazônica  | [Unsplash](https://share.google/images/jGBbduOhXegX43q6O)                  | Imagem aérea da Floresta Amazônica             |
+| Pão de Açúcar       | [Unsplash](https://share.google/images/aCsYAwtIREA3ejIos)                  | Paisagem do Pão de Açúcar no Rio de Janeiro    |
 
 ---
 
